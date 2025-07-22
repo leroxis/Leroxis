@@ -104,7 +104,6 @@ const Lerox = {
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Lover-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-8a2be2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently-Learning-Rust-orange?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Linux-8a2be2?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
