@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leroxis&label=👀+Profile+Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/visits/leroxis/leroxis?color=8A2BE2" alt="Total Visits">
   <img src="https://img.shields.io/github/followers/leroxis?label=Followers&style=flat-square&color=8A2BE2" />
 </p>
 
