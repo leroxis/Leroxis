@@ -123,3 +123,8 @@ const Lerox = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer&text=Profilimi+Ziyaret+Ettiğiniz+İçin+Teşekkürler!&fontColor=ffffff&fontSize=20&animation=twinkling" />
 
+ ---
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/983793704701681674?hideDiscrim=true&borderRadius=10px" alt="Discord Presence">
+</p>
