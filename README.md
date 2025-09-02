@@ -1,15 +1,19 @@
-
-<!-- DISCORD PRESENCE -->
+<!-- DISCORD ETKİNLİK BÖLÜMÜ -->
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/983793704701681674?hideDiscrim=true&showDisplayName=true&idleMessage=💤%20Beklemede..." alt="Discord Presence">
+  <img src="https://lanyard.cnrad.dev/api/983793704701681674?hideDiscrim=true&borderRadius=10px" alt="Discord Presence">
 </p>
 
 ---
 
 <!-- PROFİL BAŞLIĞI -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=40&color=8a2be2&fontColor=ffffff&animation=twinkling&fontSize=40" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D6FF3&width=435&lines=console.log(%22Merhaba+D%C3%BCnya!%22);print(%22Ben+Lerox%22);System.out.println(%22Frontend+Dev%22)">
+</h1>
+
+
+
+---
+
 
 <h1 align="center">✨ Welcome to Lerox's Digital Universe ✨</h1>
 
@@ -38,6 +42,11 @@ const Lerox = {
 ```
 
 ---
+## 🧠 Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+
+--- 
 
 ## ⚡ Connect With Me
 
@@ -80,31 +89,13 @@ const Lerox = {
 
 ---
 
-
-## 🎨 Ending Wave
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer&text=Thanks+for+visiting+my+profile!&fontColor=ffffff&fontSize=20&animation=twinkling" />
-
-
----
-
-## 🧰 Additional Badges
+## ⏰ My Most Active Hours on GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-8a2be2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently-Learning-Rust-orange?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Linux-8a2be2?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leroxis&theme=tokyonight&utcOffset=3" />
 </p>
 
 ---
-
-## 🧠 Quote of the Day
-
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
-
----
-
 ## 🚀 Goals for 2025
 
 - [x] Yeni portföy sitesi tamamlandı
@@ -116,11 +107,7 @@ const Lerox = {
 ---
 
 
+## 🎨 Ending Wave
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer&text=Profilimi+Ziyaret+Ettiğiniz+İçin+Teşekkürler!&fontColor=ffffff&fontSize=20&animation=twinkling" />
 
-## ⏰ My Most Active Hours on GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leroxis&theme=tokyonight&utcOffset=3" />
-</p>
