@@ -1,4 +1,4 @@
-<!-- DISCORD ETKİNLİK BÖLÜMÜ -->
+<!--- DISCORD ETKİNLİK BÖLÜMÜ --->
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/983793704701681674?hideDiscrim=true&borderRadius=10px" alt="Discord Presence">
 </p>
