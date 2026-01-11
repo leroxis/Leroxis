@@ -96,13 +96,13 @@ const Lerox = {
 </p>
 
 ---
-## 🚀 Goals for 2025
+## 🚀 Goals for 2026
 
 - [x] Yeni portföy sitesi tamamlandı
 - [x] Discord bot template hazırlandı
 - [ ] VS Code uzantısı geliştirme
-- [ ] YouTube'da JS serisi başlatma
-- [ ] Mobil uygulama yayına alma
+- [x] YouTube'da JS serisi başlatma
+- [x] Mobil uygulama yayına alma
 
 ---
 
