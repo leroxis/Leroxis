@@ -30,7 +30,7 @@
 const Lerox = {
   location: "İstanbul/Türkiye",
   role: "Full-Stack Developer",
-  age: 18,
+  age: 19,
   languages: ["JavaScript", "TypeScript", "Python", "Go", "Java", "PHP"],
   frontend: ["React", "Tailwind", "Next.js", "HTML5", "CSS3"],
   backend: ["Node.js", "Express", "NestJS", "MongoDB", "MySQL", "Redis"],
@@ -100,7 +100,7 @@ const Lerox = {
 
 - [x] Yeni portföy sitesi tamamlandı
 - [x] Discord bot template hazırlandı
-- [ ] VS Code uzantısı geliştirme
+- [x] VS Code uzantısı geliştirme
 - [x] YouTube'da JS serisi başlatma
 - [x] Mobil uygulama yayına alma
 
